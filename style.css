@@ -184,6 +184,10 @@ a:hover{text-decoration: none; cursor:pointer;}
 .mg-clear{
 	margin:0;
 }
+.mg-sm{
+	margin-top:10px;
+	margin-bottom:5px;
+}
 .mg-md{
 	margin-top:10px;
 	margin-bottom:20px;
@@ -217,6 +221,8 @@ button{
 }
 
 
+/* = Cards
+-------------------------------------------------------------- */
 .card-sq, .card-sq .card-header, .card-sq .card-footer{
 	border-radius:0;
 }
@@ -305,6 +311,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .link-style{
 	font-size:30px;
 	font-family:"Roboto";
+}
+.team-card{
+	min-height:350px;
 }
 
 /* = Colour

@@ -37,7 +37,7 @@ if ($('#particles-js').length)
 	        }
 	      },
 	      "opacity": {
-	        "value": 1.00,
+	        "value": 0.72,
 	        "random": false,
 	        "anim": {
 	          "enable": false,
@@ -47,7 +47,7 @@ if ($('#particles-js').length)
 	        }
 	      },
 	      "size": {
-	        "value": 5,
+	        "value": 3,
 	        "random": true,
 	        "anim": {
 	          "enable": false,
@@ -60,7 +60,7 @@ if ($('#particles-js').length)
 	        "enable": true,
 	        "distance": 150,
 	        "color": "#00C49E",
-	        "opacity": 1.00,
+	        "opacity": 0.61,
 	        "width": 1
 	      },
 	      "move": {
